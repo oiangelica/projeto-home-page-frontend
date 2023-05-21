@@ -1,0 +1,25 @@
+@media(max-width:800px){
+    .container{
+        display: block;
+    }
+    .principal img{
+        margin: 0px 10px;
+    }
+    .informacoes{
+        display: block;
+        padding: 10px;
+    }
+    .news{
+        margin: 30px 10px;
+    }
+    .materias{
+        display: block;
+
+    }
+    .materia{
+        margin: 30px 10px;
+    }
+    footer{
+        display: block;
+    }
+}
