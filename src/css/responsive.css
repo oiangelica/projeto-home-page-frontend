@@ -1,25 +1,97 @@
-@media(max-width:800px){
-    .container{
+@media(max-width:1300px) {
+    .container {
         display: block;
     }
-    .principal img{
+
+    .principal img {
         margin: 0px 10px;
     }
-    .informacoes{
+
+    .imagem {
+        display: flex;
+        justify-content: center;
+    }
+
+    .titulo-principal {
+        margin: auto;
+        text-align: center;
+    }
+
+    .descricao p {
+        margin: 20px auto;
+        padding: 0px 0 20px;
+    }
+
+    .descricao .div-botao {
+        margin: auto;
+    }
+
+    .informacoes {
         display: block;
         padding: 10px;
     }
-    .news{
-        margin: 30px 10px;
+
+    .news {
+        margin: 40px auto;
+        max-width: 800px;
+        height: auto;
+        padding-bottom: 30px;
     }
-    .materias{
+
+    .bloco-news {
+        text-align: center;
+    }
+
+    .materias {
+        margin: 30px 20px 0;
+    }
+}
+
+@media(max-width:900px) {
+    .principal img {
+        padding: 0 15px;
+        width: 90%;
+    }
+
+    .imagem {
+        display: block;
+    }
+
+    .titulo-principal {
+        font-size: 3rem;
+        text-align: left;
+        margin: 10px 0 20px;
+        padding: 0 10px;
+    }
+
+    .descricao {
+        margin-left: 10px
+    }
+
+    .descricao p {
+        margin: 0 0 40px;
+        padding: 0;
+        font-size: 1.7rem;
+    }
+
+    .descricao .div-botao {
+        margin: 0;
+    }
+
+    .news {
+        margin: 50px 10px;
+    }
+
+    .materias {
         display: block;
 
     }
-    .materia{
+
+    .materia {
         margin: 30px 10px;
     }
-    footer{
+
+    footer {
         display: block;
     }
 }
