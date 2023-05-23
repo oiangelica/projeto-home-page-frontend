@@ -12,4 +12,4 @@
  - CSS  🎨
  - HTML ✒️
 
- <p> Você pode coferir na integra cliando do lado aqui em  [GithubPages]. (https://oiangelica.github.io/projeto-home-page-frontend/) </p>
+ <p> Você pode coferir na integra cliando do lado aqui na hospedagem do GitHubPages. https://oiangelica.github.io/projeto-home-page-frontend/ </p>
