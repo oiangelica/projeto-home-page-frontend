@@ -1,6 +1,6 @@
 # Projeto Homepage do Frontend Mentor
 
-<img src="src/images/resultado.gif" alt="gif gravando a tela mostrando a aparencia da página">
+<img src="src/images/readme/resultado.gif" alt="gif gravando a tela mostrando a aparencia da página">
 
 <p>Este é um projeto que fiz reproduzindo uma homepage que vi lá no site frontenmentor. </p>
 
